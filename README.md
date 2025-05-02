@@ -36,6 +36,15 @@ All data is located in the zippedData folder and includes:
 - a data visualizations:
 - ![Local Image](https://github.com/Cornelius-ngatia/Group-5-Phase-2-project/blob/main/Phase%202%20project%20images/Screenshot%202025-05-02%20204315.png)
 - ![Local Image](https://github.com/Cornelius-ngatia/Group-5-Phase-2-project/blob/main/Phase%202%20project%20images/Screenshot%202025-05-02%20204358.png)
+- ![Local Image](https://github.com/Cornelius-ngatia/Group-5-Phase-2-project/blob/main/Phase%202%20project%20images/Screenshot%202025-05-02%20204423.png)
+
+## Recommendations and Keys take aways
+- Genre strategy recommendation: Invest 60% of the development budget of the top genres to ensure high audience appeal and box office returns
+- Runtime Optimization Recommendation: Develop scripts optimized for the ideal timeframe to align with audience prefrence
+- Budget vs financial success: prioritize funding for high budget films has proven to give maximum ratings and revenue if you keep into account other key factors such as story telling, marketing strategies and high quality captivating visuals.
+
+
+# END
    
 ## Tools & Libraries
 - Python (pandas, matplotlib, seaborn, sqlite3)
