@@ -34,6 +34,7 @@ All data is located in the zippedData folder and includes:
     
 ## Data visualization:
 - a data visualization showing:
+- ![Local Image](https://github.com/Cornelius-ngatia/Group-5-Phase-2-project/blob/main/Phase%202%20project%20images/Screenshot%202025-05-02%20204315.png)
    
 ## Tools & Libraries
 - Python (pandas, matplotlib, seaborn, sqlite3)
