@@ -19,14 +19,22 @@ All data is located in the zippedData folder and includes:
   Source: IMDb  
   Description: Contains movie_basics and movie_ratings tables for film genres, runtimes, and IMDb ratings.
 
-## Objectives
+  ## Objectives
 1. *Determine Market Viability*  
    - Assess which types of films resonate most with audiences and what factors contribute to commercial success.**
 2. *Guide Strategic Decision-Making*  
    - Provide recommendations on which genres, styles, or storytelling approaches the new company should pursue.**
 3. *Assess Optimal Runtime*  
-   -  *To determine the optimal range of movie runtime that is most often associated with high box office success and use it to give insights on the length of an ideal movie.*
-   -  
+   - *To determine the optimal range of movie runtime that is most often associated with high box office success and use it to give insights on the length of an ideal movie.
+
+## Data cleaning & data understanding:
+  - Looking for null values from our data sets.
+  - filling in null values.
+  - Merging of data sets our csv files and database.
+    
+## Data visualization:
+- a data visualization showing:
+   
 ## Tools & Libraries
 - Python (pandas, matplotlib, seaborn, sqlite3)
 - Jupyter Notebook for EDA and visualization
