@@ -33,8 +33,9 @@ All data is located in the zippedData folder and includes:
   - Merging of data sets our csv files and database.
     
 ## Data visualization:
-- a data visualization showing:
+- a data visualizations:
 - ![Local Image](https://github.com/Cornelius-ngatia/Group-5-Phase-2-project/blob/main/Phase%202%20project%20images/Screenshot%202025-05-02%20204315.png)
+- ![Local Image](https://github.com/Cornelius-ngatia/Group-5-Phase-2-project/blob/main/Phase%202%20project%20images/Screenshot%202025-05-02%20204358.png)
    
 ## Tools & Libraries
 - Python (pandas, matplotlib, seaborn, sqlite3)
